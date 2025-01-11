@@ -1,0 +1,11 @@
+gitpython
+astor
+astroid
+black
+faiss-gpu
+fastapi
+pydantic
+transformers==4.37.2
+sentence-transformers
+langchain
+weaviate
